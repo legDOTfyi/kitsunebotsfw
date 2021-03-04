@@ -31,12 +31,7 @@
   async function GetE621Images(tags = "", limit = "1", order = "random", nsfw = false) {
 
   var domain = ""
-  if (nsfw) {
-  domain = 'e621.net'
-  }
-  else {
   domain = 'e926.net'
-  }
 
   tags = tags.trim().replace(' ', '+').toLowerCase()
   tags = tags +
