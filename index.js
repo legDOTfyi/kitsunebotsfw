@@ -40,18 +40,6 @@
 
   tags = tags.trim().replace(' ', '+').toLowerCase()
   tags = tags +
-  "+-cub" +
-  "+-flash" +
-  "+-diaper" +
-  "+-gore" +
-  "+-watersports" +
-  "+-urine" +
-  "+-blood" +
-  "+-scat" +
-  "+-young" +
-  "+-mlp" +
-  "+-my_little_pony" +
-  "+-hasbro" +
   "+order:" + order
   "+hi_res"
 
